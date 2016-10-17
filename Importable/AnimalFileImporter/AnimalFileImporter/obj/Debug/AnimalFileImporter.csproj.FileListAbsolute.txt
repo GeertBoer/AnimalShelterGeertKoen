@@ -1,0 +1,9 @@
+c:\users\koenv\documents\visual studio 2015\Projects\AnimalFileImporter\AnimalFileImporter\bin\Debug\AnimalFileImporter.exe.config
+c:\users\koenv\documents\visual studio 2015\Projects\AnimalFileImporter\AnimalFileImporter\bin\Debug\AnimalFileImporter.exe
+c:\users\koenv\documents\visual studio 2015\Projects\AnimalFileImporter\AnimalFileImporter\bin\Debug\AnimalFileImporter.pdb
+c:\users\koenv\documents\visual studio 2015\Projects\AnimalFileImporter\AnimalFileImporter\obj\Debug\AnimalFileImporter.csprojResolveAssemblyReference.cache
+c:\users\koenv\documents\visual studio 2015\Projects\AnimalFileImporter\AnimalFileImporter\obj\Debug\AnimalFileImporter.AnimalFileImporter.resources
+c:\users\koenv\documents\visual studio 2015\Projects\AnimalFileImporter\AnimalFileImporter\obj\Debug\AnimalFileImporter.Properties.Resources.resources
+c:\users\koenv\documents\visual studio 2015\Projects\AnimalFileImporter\AnimalFileImporter\obj\Debug\AnimalFileImporter.csproj.GenerateResource.Cache
+c:\users\koenv\documents\visual studio 2015\Projects\AnimalFileImporter\AnimalFileImporter\obj\Debug\AnimalFileImporter.exe
+c:\users\koenv\documents\visual studio 2015\Projects\AnimalFileImporter\AnimalFileImporter\obj\Debug\AnimalFileImporter.pdb
