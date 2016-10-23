@@ -7,3 +7,6 @@ c:\users\koenv\documents\visual studio 2015\Projects\AnimalFileImporter\AnimalFi
 c:\users\koenv\documents\visual studio 2015\Projects\AnimalFileImporter\AnimalFileImporter\obj\Debug\AnimalFileImporter.csproj.GenerateResource.Cache
 c:\users\koenv\documents\visual studio 2015\Projects\AnimalFileImporter\AnimalFileImporter\obj\Debug\AnimalFileImporter.exe
 c:\users\koenv\documents\visual studio 2015\Projects\AnimalFileImporter\AnimalFileImporter\obj\Debug\AnimalFileImporter.pdb
+C:\Users\geert\Source\Repos\AnimalShelterGeertKoen\Importable\AnimalFileImporter\AnimalFileImporter\bin\Debug\AnimalFileImporter.exe.config
+C:\Users\geert\Source\Repos\AnimalShelterGeertKoen\Importable\AnimalFileImporter\AnimalFileImporter\obj\Debug\AnimalFileImporter.exe
+C:\Users\geert\Source\Repos\AnimalShelterGeertKoen\Importable\AnimalFileImporter\AnimalFileImporter\obj\Debug\AnimalFileImporter.pdb

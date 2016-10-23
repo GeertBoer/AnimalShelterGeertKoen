@@ -6,6 +6,8 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using System.IO;
+using System.Runtime.Serialization;
 
 namespace AnimalShelter
 {
@@ -235,8 +237,19 @@ namespace AnimalShelter
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
             {
                 string loadPath = openFileDialog1.FileName;
-                admin.Load(loadPath);
-            }
+                try
+                { 
+                    admin.Load(loadPath);
+                }
+                catch (FileNotFoundException)
+                {
+                    MessageBox.Show("Vul een correcte bestandsnaam in");
+                }
+                catch (SerializationException)
+                {
+                    MessageBox.Show("Kies een geldig bestand");
+                }
+        }
             updateListBoxes();
         }
     }

@@ -119,20 +119,9 @@ namespace AnimalShelter
         public void Load(string path)
         {
             IFormatter formatter = new BinaryFormatter();
-            try
-            { 
-                using (Stream stream = new FileStream(path, FileMode.Open))
-                {
-                    Animals = (List<Animal>)formatter.Deserialize(stream);
-                }
-            }
-            catch (FileNotFoundException)
+            using (Stream stream = new FileStream(path, FileMode.Open))
             {
-                System.Windows.Forms.MessageBox.Show("Vul een correcte bestandsnaam in");
-            }
-            catch (SerializationException)
-            {
-                System.Windows.Forms.MessageBox.Show("Kies een geldig bestand");
+                Animals = (List<Animal>)formatter.Deserialize(stream);
             }
         }
     }

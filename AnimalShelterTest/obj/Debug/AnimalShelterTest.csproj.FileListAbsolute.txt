@@ -19,3 +19,10 @@ C:\Users\KoenV\Source\Repos\PRC21_Geert_Koen\AnimalShelterTest\bin\Debug\AnimalS
 C:\Users\KoenV\Source\Repos\PRC21_Geert_Koen\AnimalShelterTest\obj\Debug\AnimalShelterTest.csprojResolveAssemblyReference.cache
 C:\Users\KoenV\Source\Repos\PRC21_Geert_Koen\AnimalShelterTest\obj\Debug\AnimalShelterTest.dll
 C:\Users\KoenV\Source\Repos\PRC21_Geert_Koen\AnimalShelterTest\obj\Debug\AnimalShelterTest.pdb
+C:\Users\geert\Source\Repos\AnimalShelterGeertKoen\AnimalShelterTest\bin\Debug\AnimalShelterTest.dll
+C:\Users\geert\Source\Repos\AnimalShelterGeertKoen\AnimalShelterTest\bin\Debug\AnimalShelterTest.pdb
+C:\Users\geert\Source\Repos\AnimalShelterGeertKoen\AnimalShelterTest\bin\Debug\AnimalShelter.exe
+C:\Users\geert\Source\Repos\AnimalShelterGeertKoen\AnimalShelterTest\bin\Debug\AnimalShelter.pdb
+C:\Users\geert\Source\Repos\AnimalShelterGeertKoen\AnimalShelterTest\obj\Debug\AnimalShelterTest.csprojResolveAssemblyReference.cache
+C:\Users\geert\Source\Repos\AnimalShelterGeertKoen\AnimalShelterTest\obj\Debug\AnimalShelterTest.dll
+C:\Users\geert\Source\Repos\AnimalShelterGeertKoen\AnimalShelterTest\obj\Debug\AnimalShelterTest.pdb

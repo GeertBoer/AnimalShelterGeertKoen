@@ -9,7 +9,7 @@ namespace AnimalShelterTest
     public class AdministrationTest
     {
         SimpleDate date = new SimpleDate(12, 12, 1999);
-        
+
         [TestMethod]
 
         public void AddNewCatTest()
@@ -158,12 +158,21 @@ namespace AnimalShelterTest
             a.Add(cat);
             string path = Path.GetTempFileName();
             a.Save(path);
-            
+
             Administration b = new Administration();
             b.Load(path);
             Cat newCat = b.FindAnimal(cat.ChipRegistrationNumber) as Cat;
             Assert.AreEqual(cat.ToString(), newCat.ToString());
         }
-        
+
+        [TestMethod]
+        [ExpectedException(typeof(ArgumentException))]
+        public void TestLoadWhenLoadIsEmpty()
+        {
+            Path.GetTempFileName();
+
+            Administration admin = new Administration();
+            admin.Load("");
+        }
     }
 }
